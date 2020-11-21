@@ -1,0 +1,10 @@
+C:\Users\abbas\source\repos\MLTrain\PriceMLConsole\PriceMLConsoleML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\abbas\source\repos\MLTrain\PriceMLConsole\PriceMLConsoleML.Model\bin\Debug\netstandard2.0\PriceMLConsoleML.Model.deps.json
+C:\Users\abbas\source\repos\MLTrain\PriceMLConsole\PriceMLConsoleML.Model\bin\Debug\netstandard2.0\PriceMLConsoleML.Model.dll
+C:\Users\abbas\source\repos\MLTrain\PriceMLConsole\PriceMLConsoleML.Model\bin\Debug\netstandard2.0\PriceMLConsoleML.Model.pdb
+C:\Users\abbas\source\repos\MLTrain\PriceMLConsole\PriceMLConsoleML.Model\obj\Debug\netstandard2.0\PriceMLConsoleML.Model.csprojAssemblyReference.cache
+C:\Users\abbas\source\repos\MLTrain\PriceMLConsole\PriceMLConsoleML.Model\obj\Debug\netstandard2.0\PriceMLConsoleML.Model.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\MLTrain\PriceMLConsole\PriceMLConsoleML.Model\obj\Debug\netstandard2.0\PriceMLConsoleML.Model.AssemblyInfo.cs
+C:\Users\abbas\source\repos\MLTrain\PriceMLConsole\PriceMLConsoleML.Model\obj\Debug\netstandard2.0\PriceMLConsoleML.Model.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\MLTrain\PriceMLConsole\PriceMLConsoleML.Model\obj\Debug\netstandard2.0\PriceMLConsoleML.Model.dll
+C:\Users\abbas\source\repos\MLTrain\PriceMLConsole\PriceMLConsoleML.Model\obj\Debug\netstandard2.0\PriceMLConsoleML.Model.pdb
